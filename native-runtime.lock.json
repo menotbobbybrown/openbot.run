@@ -369,27 +369,27 @@
     "releaseArtifacts": {
       "darwin-arm64": {
         "asset": "remote-desktop-runtime-darwin-arm64.tar.gz",
-        "sha256": "3c426c035c4562f8427968ff1630458a47f77487fc16adbb4f2cb97563c31a43"
+        "sha256": "297edcccd52cfd5c127e3230738800715e410cfb8a3333f2d60a4aa3a32b6aee"
       },
       "darwin-x64": {
         "asset": "remote-desktop-runtime-darwin-x64.tar.gz",
-        "sha256": "16f09e003fc12dc0e9066b5a98ebfe7eb61f66c78c18e2d6796b441472489806"
+        "sha256": "a872cb022407a96229b5a89a16181dbf3674c31fd24bcecc39deb036595046cb"
       },
       "win32-x64": {
         "asset": "remote-desktop-runtime-win32-x64.tar.gz",
-        "sha256": "ec1c3a9741025cf63bc10ae89248584bf0d82b9024bb5c11ef9fc25609532dad"
+        "sha256": "bcf0c454b1df5dc8c09545c8965b08ff4ea174dead7af30214efa3b6a825cb14"
       },
       "linux-x64": {
         "asset": "remote-desktop-runtime-linux-x64.tar.gz",
-        "sha256": "e149dbc3bbbdf5d86c279e7743125aa7027f5fd0e9e144ae3458073e5bf1ab8a"
+        "sha256": "d137e6bf92dd6ea801d699993a9db6ee0b3eab209a35ea060a64b9b6cec43fe9"
       }
     },
     "artifactRelease": {
-      "repository": "nightly-labs/openbot",
+      "repository": "menotbobbybrown/openbot.run",
       "tag": "remote-desktop-runtime-fbe06961a9b2fa374c077a56c3354f1f7ab6a18dd672b9d4586cf1b5636f6d7b",
       "inputDigest": "fbe06961a9b2fa374c077a56c3354f1f7ab6a18dd672b9d4586cf1b5636f6d7b",
       "manifestAsset": "remote-desktop-runtime-manifest.json",
-      "manifestSha256": "03c143862a2027a325011ea73407f2535778ae48f667d6d2a848213147b387da"
+      "manifestSha256": "2751e0d4680510c91ae41c4ba29cca9f46e167945bc2c5b31c75f101427b7a4f"
     }
   },
   "bun": {
